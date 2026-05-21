@@ -1,21 +1,57 @@
-MIT License
+LabC2 Educational and Authorized-Use License
+Version 1.0
 
-Copyright (c) 2026 Kailash Parshad
+Copyright (c) 2026 LabC2 Contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software (the "Software") is licensed, not sold. Permission is hereby
+granted, free of charge, to any person obtaining a copy of the Software to
+use, copy, modify, merge, publish, and distribute the Software, subject to
+all of the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. AUTHORIZED USE ONLY. The Software may be used only for:
+   (a) Cybersecurity education and personal learning;
+   (b) Academic research;
+   (c) Capture-the-Flag competitions;
+   (d) Authorized penetration testing engagements for which the user has
+       documented, written permission from the system owner;
+   (e) Defensive security research conducted on systems owned by the user
+       or on systems for which the user has documented authorization.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. PROHIBITED USE. The Software may not be used to:
+   (a) Access, control, monitor, or extract data from any computing system
+       without the explicit, prior, written authorization of that system's
+       owner;
+   (b) Cause damage, denial of service, or financial loss to any party;
+   (c) Develop, distribute, or deploy malware intended for unauthorized
+       deployment;
+   (d) Evade detection by lawful network monitoring on networks the user
+       does not own;
+   (e) Violate any applicable law or regulation in the user's jurisdiction.
+
+3. ATTRIBUTION. The above copyright notice, this license, and the
+   accompanying ETHICS.md file must be included in all copies or
+   substantial portions of the Software.
+
+4. NETWORK USE = DISTRIBUTION. If you run a modified version of the
+   Software as a network service, you must make the complete corresponding
+   source code of your modified version available to users of that service
+   under this same license. (This clause is based on AGPL-3.0 section 13.)
+
+5. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. NO LIABILITY. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+   LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+   OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. TERMINATION. Any breach of conditions 1, 2, 3, or 4 immediately
+   terminates your rights under this license. Upon termination you must
+   destroy all copies of the Software in your possession.
+
+8. SEVERABILITY. If any provision of this license is held unenforceable,
+   the remaining provisions shall remain in full force and effect.
+
+This license is not OSI-approved. It is intentionally restrictive in order
+to discourage misuse of this educational project.
